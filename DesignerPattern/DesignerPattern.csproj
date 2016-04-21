@@ -43,7 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Factory\BigUFOEnemyShip.cs" />
     <Compile Include="Factory\EnemyShip.cs" />
+    <Compile Include="Factory\EnemyShipFactory.cs" />
     <Compile Include="Factory\RocketEnemyShip.cs" />
     <Compile Include="Factory\UFOEnemyShip.cs" />
     <Compile Include="Observer\GetTheStock.cs" />

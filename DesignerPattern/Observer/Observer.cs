@@ -9,6 +9,5 @@ namespace DesignerPattern.Observer
     public interface Observer
     {
         void Update(double ibmPrice, double aaplPrice, double googPrice);
-
     }
 }
